@@ -1,0 +1,397 @@
+{
+  "welcome_back": "ברוכים השבים",
+  "sign_in_to_continue": "היכנס כדי להמשיך את המסע שלך",
+  "email_address": "כתובת אימייל",
+  "password": "סיסמה",
+  "forgot_password": "שכחת סיסמה",
+  "forgot_password_description": "הזן את האימייל שלך כדי לקבל קוד איפוס",
+  "reset_code_sent": "קוד איפוס נשלח לאימייל שלך!",
+  "reset_code_sent_description": "אנא בדוק את תיבת הדואר הנכנס שלך ובצע את ההוראות כדי לאפס את הסיסמה שלך.",
+  "redirecting_to_reset": "מפנה לדף האיפוס...",
+  "sign_in": "התחבר",
+  "no_account": "אין לך חשבון?",
+  "sign_up": "הירשם",
+  "explore_the_world": "חקור את העולם",
+  "welcome_user": "ברוך הבא, {{name}}!",
+  "search_location": "חפש מיקום...",
+  "add_new_location": "הוסף מיקום חדש באמצעות מפה",
+  "login": "התחברות",
+  "logout": "התנתקות",
+  "sending": "שולח...",
+  "network_error": "שגיאת רשת. בבקשה נסה שוב.",
+  "forgot_password_title": "שכחת סיסמה",
+  "forgot_password_subtitle": "הזן את האימייל שלך לקבלת קוד איפוס",
+  "check_inbox_instructions": "אנא בדוק את תיבת הדואר הנכנס שלך ופעל לפי ההוראות לאיפוס הסיסמה.",
+  "redirecting": "מעביר...",
+  "send_reset_code": "שלח קוד איפוס",
+  "remember_password": "זוכר את הסיסמה?",
+  "create_account": "יצירת חשבון",
+  "join_us_journey": "הצטרפו אלינו והתחילו את המסע שלכם",
+  "full_name": "שם מלא",
+  "confirm_password": "אימות סיסמה",
+  "suggest_strong_password": "הצע סיסמה חזקה",
+  "password_requirements": "דרישות סיסמה:",
+  "password_must_include": "הסיסמה שלך חייבת לכלול {{requirements}}",
+  "pass_req_length": "לפחות 8 תווים",
+  "pass_req_uppercase": "אות גדולה אחת",
+  "pass_req_lowercase": "אות קטנה אחת",
+  "pass_req_number": "ספרה אחת",
+  "pass_req_special": "תו מיוחד אחת",
+  "passwords_match": "הסיסמאות תואמות",
+  "passwords_do_not_match": "הסיסמאות אינן תואמות",
+  "processing": "מעבד...",
+  "all_fields_required": "כל השדות נדרשים",
+  "password_needs": "הסיסמה צריכה: {{requirements}}",
+  "already_have_account": "כבר יש לך חשבון?",
+  "registration_failed": "ההרשמה נכשלה",
+  "registration_successful_approval": "ההרשמה הושלמה! ממתין לאישור מנהל.",
+  "reset_password_title": "איפוס סיסמה",
+  "reset_password_subtitle": "הזן את הקוד שנשלח לאימייל שלך",
+  "password_reset_success_title": "הסיסמה אופסה בהצלחה!",
+  "password_reset_success_subtitle": "כעת באפשרותך להתחבר עם הסיסמה החדשה שלך.",
+  "back_to_login": "חזרה להתחברות",
+  "resetting_for": "מאפס סיסמה עבור:",
+  "reset_code": "קוד איפוס",
+  "enter_6_digit_code": "הזן קוד בן 6 ספרות",
+  "didnt_receive_code": "לא קיבלת קוד? שלח שוב",
+  "new_password": "סיסמה חדשה",
+  "confirm_new_password": "אמת סיסמה חדשה",
+  "resetting": "מאפס...",
+  "reset_password_button": "אפס סיסמה",
+"header": {
+  "title": "BSD עיצוב וניהול",
+  "subtitle": "מערכת ניהול נכסים יוקרתית",
+  "goToOwners": "עבור לחלק הבעלים",
+  "owners": "בעלים",
+  "goToFiles": "עבור לחלק הקבצים",
+  "files": "קבצים",
+  "changeLanguage": "שנה שפה",
+  "logout": "התנתק",
+  "changeTheme": "שנה ערכת נושא"
+},
+  "buttons": {
+    "save": "שמור",
+    "cancel": "ביטול",
+    "delete": "מחק",
+    "editProperty": "ערוך נכס",
+    "updateProperty": "עדכן נכס",
+    "saveProperty": "שמור נכס",
+    "completeSplit": "השלם פיצול",
+    "addOwner": "הוסף בעלים נוסף",
+    "removeOwner": "הסר בעלים {{index}}",
+    "clearAll": "נקה הכל",
+    "add": "הוסף",
+    "trace": "שרטט",
+    "cities": "ערים",
+    "layers": "שכבות",
+    "enterFullscreen": "מסך מלא",
+    "exitFullscreen": "צא ממסך מלא",
+    "exit": "יציאה",
+    "full": "מלא",
+    "undo": "בטל",
+    "finish": "סיים",
+    "orthogonalOn": "שרטוט אורתוגונלי מופעל",
+    "orthogonalOff": "שרטוט אורתוגונלי כבוי",
+    "lockAndTrace": "נעל והתחל לשרטט",
+    "startDrawing": "התחל לשרטט",
+    "saving": "שומר...",
+    "close": "סגור"
+  },
+  "search": {
+    "title": "חיפוש נכסים",
+    "placeholder": "חפש נכסים, מקומות, כתובות...",
+    "searching": "מחפש...",
+    "myProperties": "הנכסים שלי",
+    "globalPlaces": "מקומות בעולם",
+    "actions": "פעולות",
+    "orthogonalHint": "השרטוט מוגבל לקווים אופקיים/אנכיים",
+    "licenseStatus": "סטטוס רישיון",
+    "recentSearches": "חיפושים אחרונים"
+  },
+  "forms": {
+    "addProperty": {
+      "title": "הוספת נכס חדש",
+      "description": "מלא את פרטי הנכס למטה."
+    },
+    "editProperty": {
+      "title": "עריכת נכס"
+    },
+    "splitProperty": {
+      "title": "פיצול נכס",
+      "description": "יחידת הפיצול תירש מידע וקבצים."
+    },
+    "sections": {
+      "houseInfo": "מידע על הבית",
+      "ownerInfo": "מידע על הבעלים",
+      "attachedFiles": "קבצים מצורפים"
+    },
+    "labels": {
+      "houseNumber": "מספר בית",
+      "address": "כתובת",
+      "city": "עיר",
+      "country": "מדינה",
+      "propertyType": "סוג נכס",
+      "licenseStatus": "סטטוס רישיון",
+      "description": "תיאור",
+      "firstName": "שם פרטי",
+      "lastName": "שם משפחה",
+      "idNumber": "מספר תעודת זהות",
+      "phone": "טלפון",
+      "email": "אימייל"
+    },
+    "helpers": {
+      "idNumber": "מספר חברה או מספר תעודת זהות",
+      "phone": "מספר טלפון ליצירת קשר",
+      "email": "כתובת אימייל ליצירת קשר"
+    },
+    "files": {
+      "linkedParentFiles": "קבצים מקושרים מהנכס המקורי",
+      "linkedParentDescription": "קבצים אלו יקושר מהנכס המקורי. ניתן להוסיף קבצים חדשים ספציפיים ליחידה זו למטה.",
+      "noLinkedFiles": "אין קבצים מקושרים מהנכס המקורי."
+    },
+    "fileUpload": {
+      "plans": "העלאת תוכניות בית",
+      "plansOptional": "העלאת תוכניות חדשות (אופציונלי)",
+      "photos": "העלאת תמונות בית",
+      "photosOptional": "העלאת תמונות חדשות (אופציונלי)",
+      "license": "העלאת מסמכי רישיון",
+      "licenseOptional": "העלאת מסמכי רישיון חדשים (אופציונלי)",
+      "additional": "העלאת מסמכים נוספים",
+      "additionalOptional": "העלאת מסמכים נוספים חדשים (אופציונלי)"
+    },
+    "propertyTypes": {
+      "residential": "מגורים",
+      "commercial": "מסחרי"
+    }
+  },
+  "details": {
+    "title": "פרטי נכס",
+    "sections": {
+      "propertyInfo": "מידע על הנכס",
+      "history": "היסטוריה",
+      "owners": "בעלים",
+      "parcelInfo": "מידע חלקה",
+      "photos": "תמונות",
+      "attachedFiles": "קבצים מצורפים"
+    },
+    "labels": {
+      "licenseStatus": "סטטוס רישיון",
+      "propertyType": "סוג הנכס",
+      "address": "כתובת",
+      "city": "עיר",
+      "country": "מדינה",
+      "firstName": "שם פרטי",
+      "lastName": "שם משפחה",
+      "idNumber": "מספר תעודת זהות",
+      "phone": "טלפון",
+      "email": "אימייל",
+      "gushNum": "מספר גוש",
+      "parcelNum": "מספר חלקה"
+    }
+  },
+  "parcelInfo": {
+    "title": "מידע חלקה",
+    "gushNum": "מספר גוש",
+    "parcelNum": "מספר חלקה",
+    "gushSuffix": "תת-גוש"
+  },
+  "fileUpload": {
+    "selectFiles": "בחר קבצים",
+    "selectFile": "בחר קובץ",
+    "dragAndDrop": "או גרור ושחרר",
+    "maxSize": "גודל קובץ מקסימלי",
+    "releaseToUpload": "שחרר להעלאה",
+    "errorsTitle": "שגיאות העלאה",
+    "error": {
+      "invalidType": "סוג קובץ לא חוקי. מותרים רק קבצי {{types}}.",
+      "tooLarge": "הקובץ גדול מדי. גודל הקובץ המקסימלי הוא {{maxSize}}."
+    }
+  },
+  "licenseStatuses": {
+    "approved": "מאושר",
+    "pending": "ממתין",
+    "no_licence": "ללא רישיון"
+  },
+  "layers": {
+    "title": "שכבות",
+    "baseMaps": "מפות בסיס",
+    "overlays": "שכבות על",
+    "opacity": "שקיפות"
+  },
+  "baseLayers": {
+    "osm": {
+      "name": "מפת רחובות",
+      "description": "מפת רחובות סטנדרטית"
+    },
+    "esri-streets": {
+      "name": "רחובות Esri",
+      "description": "מפת רחובות של Esri"
+    },
+    "esri-topo": {
+      "name": "טופוגרפית Esri",
+      "description": "מפה טופוגרפית של Esri"
+    },
+    "esri-imagery": {
+      "name": "תצלום אוויר Esri",
+      "description": "תצלום לוויין של Esri עם תוויות"
+    },
+    "govmap-orthophoto": {
+      "name": "לוויין",
+      "description": "תצלום לוויין"
+    },
+    "topo": {
+      "name": "טופוגרפית",
+      "description": "נתוני שטח"
+    }
+  },
+  "overlayLayers": {
+    "parcels": {
+      "name": "חלקות",
+      "description": "גבולות נכסים"
+    },
+    "blocks": {
+      "name": "גושים",
+      "description": "גושים מוניציפליים"
+    },
+    "retzefmigrashim": {
+      "name": "נתיבי הגירה",
+      "description": "נתיבים היסטוריים"
+    },
+    "matzuva-detailed": {
+      "name": "מצובה מפורט",
+      "description": "נתונים מוניציפליים מפורטים"
+    }
+  },
+  "cities": {
+    "title": "ערים",
+    "current": "נוכחית",
+    "zoomLevel": "רמת זום"
+  },
+  "cityPresets": {
+    "matzuva": {
+      "name": "מצובה",
+      "description": "ישוב בגבול הצפון"
+    },
+    "jerusalem": {
+      "name": "ירושלים",
+      "description": "עיר בירה"
+    },
+    "tel_aviv": {
+      "name": "תל אביב",
+      "description": "מרכז כלכלי"
+    },
+    "haifa": {
+      "name": "חיפה",
+      "description": "עיר נמל צפונית"
+    },
+    "beer_sheva": {
+      "name": "באר שבע",
+      "description": "בירת הדרום"
+    }
+  },
+  "notifications": {
+    "title": "התראות",
+    "noActivity": "אין פעילות אחרונה.",
+    "you": "אתה",
+    "message": "'{{locationName}}' {{action}} על ידי {{actor}}.",
+    "actions": {
+      "added": "התווסף",
+      "updated": "עודכן",
+      "deleted": "נמחק"
+    }
+  },
+  "history": {
+    "createdSplit": "הנכס נוצר מחלוקה, וירש {{fileCount}} קבצים.",
+    "created": "הנכס נוצר.",
+    "deleted": "הנכס נמחק.",
+    "generalUpdate": "עדכון כללי ללא שינויים ספציפיים.",
+    "empty": "ריק",
+    "filesAddedPrefix": "נוספו {{count}} קבצים: ",
+    "filesRemoved": "הוסרו קבצים.",
+    "changedPrefix": "שונה",
+    "fromPrefix": "מ-",
+    "toPrefix": "ל-",
+    "fields": {
+      "name": "שם",
+      "description": "תיאור",
+      "license_status": "סטטוס רישיון",
+      "owners": "בעלים",
+      "address": "כתובת"
+    }
+  },
+  "toasts": {
+    "loadError": "טעינת נתוני הנכסים נכשלה. אנא רענן את הדף.",
+    "notificationsCleared": "כל ההתראות נוקו",
+    "drawingCancelled": "השרטוט בוטל",
+    "drawingAndTraceCancelled": "השרטוט ושרטוט התמונה בוטלו",
+    "orthogonalOn": "מצב שרטוט אורתוגונלי הופעל - קווים יוגבלו לאופקיים/אנכיים",
+    "orthogonalOff": "מצב שרטוט אורתוגונלי כובה",
+    "need3Points": "צריך לפחות 3 נקודות כדי ליצור גבול נכס",
+    "relatedProperty": "נכס זה קשור ל-\"{{name}}\". מאחזר פרטי נכס מקורי...",
+    "parentFetchError": "לא ניתן היה לאחזר את הפרטים המלאים של הנכס המקורי. ייתכן שחלק מהנתונים חסרים.",
+    "parentFetchErrorNetwork": "שגיאה באחזור נתוני הנכס המקורי.",
+    "splitDetected": "{{reason}} פעולה זו תטופל כפיצול/חלוקה.",
+    "locationDetailsError": "לא ניתן היה לאחזר חלק מפרטי המיקום.",
+    "boundaryCreated": "הגבול נוצר בהצלחה. אנא מלא את פרטי הנכס.",
+    "searchFailed": "החיפוש נכשל. אנא נסה שוב.",
+    "finishDrawingFirst": "אנא סיים את השרטוט לפני בחירת נכס",
+    "incompleteData": "לא ניתן היה לטעון את נתוני הנכס המלאים",
+    "deleteSuccess": "הנכס נמחק בהצלחה",
+    "deleteError": "שגיאה במחיקת הנכס: {{message}}",
+    "invalidImage": "אנא בחר קובץ תמונה חוקי.",
+    "imageLoaded": "התמונה נטענה. התאם את המיקום, הגודל והסיבוב.",
+    "traceCancelled": "שרטוט התמונה בוטל.",
+    "imageLocked": "התמונה נעולה. שרטט את הגבול על המפה."
+  },
+  "errors": {
+    "generic": "אירעה שגיאה",
+    "networkUpload": "שגיאת רשת במהלך ההעלאה.",
+    "unexpected": "אירעה שגיאה בלתי צפויה.",
+    "downloadFailed": "ההורדה נכשלה. ייתכן שאין לך הרשאה לגשת לקובץ זה.",
+    "authNoToken": "שגיאת אימות: לא נמצא טוקן.",
+    "deleteFailed": "מחיקת המיקום נכשלה"
+  },
+  "formErrors": {
+    "houseNumberRequired": "נדרש מספר בית",
+    "ownerRequired": "נדרש לפחות בעלים אחד עם שם פרטי",
+    "boundaryRequired": "נדרשות קואורדינטות גבול. אנא שרטט גבול על המפה.",
+    "invalidEmail": "אנא הזן כתובת אימייל חוקית",
+    "fixErrors": "אנא תקן את השגיאות בטופס"
+  },
+  "confirmations": {
+    "cancelChanges": "האם אתה בטוח? שינויים שלא נשמרו יאבדו.",
+    "deleteProperty": "האם אתה בטוח שברצונך למחוק נכס זה?",
+    "unsavedChanges": "שינויים שלא נשמרו יאבדו. להמשיך?"
+  },
+  "splitReasons": {
+    "contained": "הנכס החדש נמצא במלואו בתוך נכס קיים.",
+    "sharedPoints": "הנכס החדש חולק לפחות 2 נקודות עם נכס קיים.",
+    "adjacent": "הנכס החדש חולק גבול עם נכס קיים."
+  },
+  "map": {
+    "drawingPoint": "נקודה {{index}}",
+    "selectedLocation": "מיקום נבחר"
+  },
+  "trace": {
+    "title": "בקרת שרטוט תמונה",
+    "opacity": "שקיפות",
+    "adjustHint": "הזז, שנה גודל וסובב את התמונה כדי ליישר אותה עם המפה.",
+    "lockedHint": "התמונה נעולה. שרטט את הגבול על המפה."
+  },
+  "drawPrompt": {
+    "title": "שרטט גבול נכס",
+    "description": "לחץ על המפה כדי להוסיף נקודות. לחץ על \"סיים\" בסיום."
+  },
+  "common": {
+    "notAvailable": "לא זמין",
+    "notProvided": "לא סופק",
+    "loadingHistory": "טוען היסטוריה...",
+    "noHistory": "אין היסטוריה זמינה.",
+    "noOwnerInfo": "אין מידע על בעלים.",
+    "noPhotos": "לא הועלו תמונות.",
+    "noFiles": "לא הועלו קבצים.",
+    "uploading": "מעלה",
+    "unnamed": "ללא שם",
+    "noAddress": "אין כתובת רחוב"
+  }
+}

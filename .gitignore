@@ -1,0 +1,22 @@
+# --- Dependencies (Ignored in all folders) ---
+node_modules/
+*/node_modules/
+
+# --- Environment Variables (Security Risk) ---
+.env
+.env.local
+.env.*
+
+# --- Backend Specific ---
+# You didn't select 'uploads' in the backend, so we ignore it
+uploads/
+backend/uploads/
+
+# --- Frontend (Vite/React) Specific ---
+# Standard build outputs for React apps
+dist/
+build/
+
+# --- System Files ---
+.DS_Store
+Thumbs.db

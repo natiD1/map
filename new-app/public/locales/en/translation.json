@@ -1,0 +1,396 @@
+{
+  "welcome_back": "Welcome Back",
+  "sign_in_to_continue": "Sign in to continue your journey",
+  "email_address": "Email address",
+  "password": "Password",
+  "forgot_password": "Forgot Password",
+  "forgot_password_description": "Enter your email to receive a reset code",
+  "reset_code_sent": "Reset code sent to your email!",
+  "reset_code_sent_description": "Please check your inbox and follow the instructions to reset your password.",
+  "redirecting_to_reset": "Redirecting to reset page...",
+  "sign_in": "Sign In",
+  "no_account": "Don't have an account?",
+  "sign_up": "Sign Up",
+  "explore_the_world": "Explore The World",
+  "welcome_user": "Welcome, {{name}}!",
+  "search_location": "Search for a location...",
+  "add_new_location": "Add New Location via Map",
+  "login": "Login",
+  "logout": "Logout",
+  "sending": "Sending...",
+  "network_error": "Network error. Please try again.",
+  "forgot_password_title": "Forgot Password",
+  "forgot_password_subtitle": "Enter your email to receive a reset code",
+  "check_inbox_instructions": "Please check your inbox and follow the instructions to reset your password.",
+  "redirecting": "Redirecting...",
+  "send_reset_code": "Send Reset Code",
+  "remember_password": "Remember your password?",
+  "create_account": "Create Account",
+  "join_us_journey": "Join us and start your journey",
+  "full_name": "Full Name",
+  "confirm_password": "Confirm Password",
+  "suggest_strong_password": "Suggest Strong Password",
+  "password_requirements": "Password requirements:",
+  "password_must_include": "Your password must include {{requirements}}",
+  "pass_req_length": "at least 8 characters",
+  "pass_req_uppercase": "one uppercase letter",
+  "pass_req_lowercase": "one lowercase letter",
+  "pass_req_number": "one number",
+  "pass_req_special": "one special character",
+  "passwords_match": "Passwords match",
+  "passwords_do_not_match": "Passwords do not match",
+  "processing": "Processing...",
+  "all_fields_required": "All fields are required",
+  "password_needs": "Password needs: {{requirements}}",
+  "already_have_account": "Already have an account?",
+  "registration_failed": "Registration failed",
+  "registration_successful_approval": "Registration successful! Awaiting admin approval.",
+  "reset_password_title": "Reset Password",
+  "reset_password_subtitle": "Enter the code sent to your email",
+  "password_reset_success_title": "Password reset successfully!",
+  "password_reset_success_subtitle": "You can now log in with your new password.",
+  "back_to_login": "Back to Login",
+  "resetting_for": "Resetting password for:",
+  "reset_code": "Reset Code",
+  "enter_6_digit_code": "Enter 6-digit code",
+  "didnt_receive_code": "Didn't receive code? Resend",
+  "new_password": "New Password",
+  "confirm_new_password": "Confirm New Password",
+  "resetting": "Resetting...",
+  "reset_password_button": "Reset Password",
+  "header": {
+    "title": "BSD Design & Management",
+    "subtitle": "Luxury Property Management System",
+    "goToOwners": "Go to Owners Section",
+    "owners": "Owners",
+    "goToFiles": "Go to Files Section",
+    "files": "Files",
+     "changeLanguage": "Change Language",
+     "changeTheme": "Change Theme"
+  },
+  "buttons": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "editProperty": "Edit Property",
+    "updateProperty": "Update Property",
+    "saveProperty": "Save Property",
+    "completeSplit": "Complete Split",
+    "addOwner": "Add Another Owner",
+    "removeOwner": "Remove Owner {{index}}",
+    "clearAll": "Clear All",
+    "add": "Add",
+    "trace": "Trace",
+    "cities": "Cities",
+    "layers": "Layers",
+    "enterFullscreen": "Enter Fullscreen",
+    "exitFullscreen": "Exit Fullscreen",
+    "exit": "Exit",
+    "full": "Full",
+    "undo": "Undo",
+    "finish": "Finish",
+    "orthogonalOn": "Orthogonal ON",
+    "orthogonalOff": "Orthogonal OFF",
+    "lockAndTrace": "Lock & Start Tracing",
+    "startDrawing": "Start Drawing",
+    "saving": "Saving...",
+    "close": "Close"
+  },
+  "search": {
+    "title": "Search Properties",
+    "placeholder": "Search properties, places, addresses...",
+    "searching": "Searching...",
+    "myProperties": "My Properties",
+    "globalPlaces": "Global Places",
+    "actions": "Actions",
+    "orthogonalHint": "Drawing constrained to horizontal/vertical lines",
+    "licenseStatus": "License Status",
+    "recentSearches": "Recent Searches"
+  },
+  "forms": {
+    "addProperty": {
+      "title": "Add New Property",
+      "description": "Fill in the property details below."
+    },
+    "editProperty": {
+      "title": "Edit Property"
+    },
+    "splitProperty": {
+      "title": "Split Property",
+      "description": "This split unit will inherit information and files."
+    },
+    "sections": {
+      "houseInfo": "House Information",
+      "ownerInfo": "Owner Information",
+      "attachedFiles": "Attached Files"
+    },
+    "labels": {
+      "houseNumber": "House Number",
+      "address": "Address",
+      "city": "City",
+      "country": "Country",
+      "propertyType": "Property Type",
+      "licenseStatus": "License Status",
+      "description": "Description",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "idNumber": "ID Number",
+      "phone": "Phone",
+      "email": "Email"
+    },
+    "helpers": {
+      "idNumber": "Tax ID or national ID number",
+      "phone": "Contact phone number",
+      "email": "Contact email address"
+    },
+    "files": {
+      "linkedParentFiles": "Linked Parent Files",
+      "linkedParentDescription": "These files will be linked from the parent property. You can add new files specific to this unit below.",
+      "noLinkedFiles": "No files linked from parent."
+    },
+    "fileUpload": {
+      "plans": "Upload House Plans",
+      "plansOptional": "Upload New Plans (Optional)",
+      "photos": "Upload House Photos",
+      "photosOptional": "Upload New Photos (Optional)",
+      "license": "Upload Licence Documents",
+      "licenseOptional": "Upload New Licence Docs (Optional)",
+      "additional": "Upload Additional Documents",
+      "additionalOptional": "Upload New Additional Docs (Optional)"
+    },
+    "propertyTypes": {
+      "residential": "Residential",
+      "commercial": "Commercial"
+    }
+  },
+  "details": {
+    "title": "Property Details",
+    "sections": {
+      "propertyInfo": "Property Information",
+      "history": "History",
+      "owners": "Owner(s)",
+      "parcelInfo": "Parcel Information",
+      "photos": "Photos",
+      "attachedFiles": "Attached Files"
+    },
+    "labels": {
+      "licenseStatus": "License Status",
+      "propertyType": "Property Type",
+      "address": "Address",
+      "city": "City",
+      "country": "Country",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "idNumber": "ID Number",
+      "phone": "Phone",
+      "email": "Email",
+      "gushNum": "Gush Number",
+      "parcelNum": "Parcel Number"
+    }
+  },
+  "parcelInfo": {
+    "title": "Parcel Information",
+    "gushNum": "Gush Number",
+    "parcelNum": "Parcel Number",
+    "gushSuffix": "Gush Suffix"
+  },
+  "fileUpload": {
+    "selectFiles": "Select files",
+    "selectFile": "Select a file",
+    "dragAndDrop": "or drag and drop",
+    "maxSize": "Maximum file size",
+    "releaseToUpload": "Release to upload",
+    "errorsTitle": "Upload errors",
+    "error": {
+      "invalidType": "Invalid file type. Only {{types}} files are allowed.",
+      "tooLarge": "File too large. Maximum file size is {{maxSize}}."
+    }
+  },
+  "licenseStatuses": {
+    "approved": "Approved",
+    "pending": "Pending",
+    "no_licence": "No Licence"
+  },
+  "layers": {
+    "title": "Layers",
+    "baseMaps": "Base Maps",
+    "overlays": "Overlays",
+    "opacity": "Opacity"
+  },
+  "baseLayers": {
+    "osm": {
+      "name": "Street Map",
+      "description": "Standard street map"
+    },
+    "esri-streets": {
+      "name": "Esri Streets",
+      "description": "Esri Street Map"
+    },
+    "esri-topo": {
+      "name": "Esri Topographic",
+      "description": "Esri Topographic Map"
+    },
+    "esri-imagery": {
+      "name": "Esri Imagery",
+      "description": "Esri Satellite Imagery with Labels"
+    },
+    "govmap-orthophoto": {
+      "name": "Satellite",
+      "description": "Satellite imagery"
+    },
+    "topo": {
+      "name": "Topographic",
+      "description": "Terrain data"
+    }
+  },
+  "overlayLayers": {
+    "parcels": {
+      "name": "Parcels",
+      "description": "Property boundaries"
+    },
+    "blocks": {
+      "name": "Blocks",
+      "description": "Municipal blocks"
+    },
+    "retzefmigrashim": {
+      "name": "Migration Routes",
+      "description": "Historical routes"
+    },
+    "matzuva-detailed": {
+      "name": "Matzuva Detailed",
+      "description": "Detailed municipal data"
+    }
+  },
+  "cities": {
+    "title": "Cities",
+    "current": "Current",
+    "zoomLevel": "Zoom level"
+  },
+  "cityPresets": {
+    "matzuva": {
+      "name": "Matzuva",
+      "description": "Northern border village"
+    },
+    "jerusalem": {
+      "name": "Jerusalem",
+      "description": "Capital city"
+    },
+    "tel_aviv": {
+      "name": "Tel Aviv",
+      "description": "Economic center"
+    },
+    "haifa": {
+      "name": "Haifa",
+      "description": "Northern port city"
+    },
+    "beer_sheva": {
+      "name": "Beer Sheva",
+      "description": "Southern desert capital"
+    }
+  },
+  "notifications": {
+    "title": "Notifications",
+    "noActivity": "No recent activity.",
+    "you": "You",
+    "message": "{{actor}} {{action}} property '{{locationName}}'.",
+    "actions": {
+      "added": "added",
+      "updated": "updated",
+      "deleted": "deleted"
+    }
+  },
+  "history": {
+    "createdSplit": "Property created from a split, inheriting {{fileCount}} file(s).",
+    "created": "Property created.",
+    "deleted": "Property deleted.",
+    "generalUpdate": "General update with no specific changes logged.",
+    "empty": "empty",
+    "filesAddedPrefix": "Added {{count}} file(s): ",
+    "filesRemoved": "Removed file(s).",
+    "changedPrefix": "Changed",
+    "fromPrefix": "from",
+    "toPrefix": "to",
+    "fields": {
+      "name": "name",
+      "description": "description",
+      "license_status": "license status",
+      "owners": "owners",
+      "address": "address"
+    }
+  },
+  "toasts": {
+    "loadError": "Failed to load property data. Please refresh the page.",
+    "notificationsCleared": "All notifications cleared",
+    "drawingCancelled": "Drawing cancelled",
+    "drawingAndTraceCancelled": "Drawing and image trace cancelled",
+    "orthogonalOn": "Orthogonal drawing mode enabled - lines will be constrained to horizontal/vertical",
+    "orthogonalOff": "Orthogonal drawing mode disabled",
+    "need3Points": "You need at least 3 points to create a property boundary",
+    "relatedProperty": "This property is related to \"{{name}}\". Fetching parent details...",
+    "parentFetchError": "Could not fetch full details for parent property. Some data may be missing.",
+    "parentFetchErrorNetwork": "Error fetching parent property data.",
+    "splitDetected": "{{reason}} This will be treated as a split/subdivision.",
+    "locationDetailsError": "Could not retrieve some location details.",
+    "boundaryCreated": "Boundary created successfully. Please fill in the property details.",
+    "searchFailed": "Search failed. Please try again.",
+    "finishDrawingFirst": "Please finish drawing before selecting a property",
+    "incompleteData": "Could not load complete property data",
+    "deleteSuccess": "Property deleted successfully",
+    "deleteError": "Error deleting property: {{message}}",
+    "invalidImage": "Please select a valid image file.",
+    "imageLoaded": "Image loaded. Adjust position, size, and rotation.",
+    "traceCancelled": "Image trace cancelled.",
+    "imageLocked": "Image locked. Click on the map to trace the boundary."
+  },
+  "errors": {
+    "generic": "An error occurred",
+    "networkUpload": "Network error during upload.",
+    "unexpected": "An unexpected error occurred.",
+    "downloadFailed": "Download failed. You may not have permission to access this file.",
+    "authNoToken": "Authentication error: No token found.",
+    "deleteFailed": "Failed to delete location"
+  },
+  "formErrors": {
+    "houseNumberRequired": "House Number is required",
+    "ownerRequired": "At least one owner with first name is required",
+    "boundaryRequired": "Boundary coordinates are required. Please draw a boundary on the map.",
+    "invalidEmail": "Please enter a valid email address",
+    "fixErrors": "Please fix the errors in the form"
+  },
+  "confirmations": {
+    "cancelChanges": "Are you sure? Any unsaved changes will be lost.",
+    "deleteProperty": "Are you sure you want to delete this property?",
+    "unsavedChanges": "Unsaved changes will be lost. Continue?"
+  },
+  "splitReasons": {
+    "contained": "The new property is fully contained within an existing property.",
+    "sharedPoints": "The new property shares at least 2 points with an existing property.",
+    "adjacent": "The new property shares a boundary with an existing property."
+  },
+  "map": {
+    "drawingPoint": "Point {{index}}",
+    "selectedLocation": "Selected Location"
+  },
+  "trace": {
+    "title": "Image Tracing Controls",
+    "opacity": "Opacity",
+    "adjustHint": "Move, resize, and rotate the image to align it with the map.",
+    "lockedHint": "Image is locked. Trace the boundary on the map."
+  },
+  "drawPrompt": {
+    "title": "Draw Property Boundary",
+    "description": "Click on the map to add points. Click \"Finish\" when done."
+  },
+  "common": {
+    "notAvailable": "Not available",
+    "notProvided": "Not provided",
+    "loadingHistory": "Loading history...",
+    "noHistory": "No history available.",
+    "noOwnerInfo": "No owner information available.",
+    "noPhotos": "No photos uploaded.",
+    "noFiles": "No files uploaded.",
+    "uploading": "Uploading",
+    "unnamed": "Unnamed",
+    "noAddress": "No street address"
+  }
+}

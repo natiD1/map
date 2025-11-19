@@ -1,0 +1,70 @@
+@keyframes slideDown {
+  0% {
+    transform: translateY(-20%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0%);
+    opacity: 1;
+  }
+}
+
+.animate-slideDown {
+  animation: slideDown 0.3s ease-out forwards;
+}
+
+
+/* In your CSS file (e.g., src/App.css or src/index.css) */
+
+/* Custom styles for Leaflet LayersControl to center it at the top */
+.leaflet-control-layers {
+  left: 50% !important; /* Move to the horizontal center */
+  transform: translateX(-50%) !important; /* Adjust for the element's own width */
+  top: 10px !important; /* Adjust vertical position as needed */
+  right: auto !important; /* Override Leaflet's default 'right' positioning */
+  margin-left: 0 !important; /* Remove any default left margin */
+  margin-right: 0 !important; /* Remove any default right margin */
+  z-index: 1000; /* Ensure it's above other map elements if needed */
+}
+/* Custom Scrollbar for Webkit browsers (Chrome, Safari) */
+.custom-dark-scrollbar::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+.custom-dark-scrollbar::-webkit-scrollbar-track {
+  background: rgba(40, 40, 40, 0.5); /* Darker track */
+  border-radius: 10px;
+}
+
+.custom-dark-scrollbar::-webkit-scrollbar-thumb {
+  background-color: rgba(100, 100, 100, 0.6); /* Darker thumb color */
+  border-radius: 10px;
+  border: 2px solid rgba(40, 40, 40, 0.5); /* Border around thumb */
+}
+
+.custom-dark-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(130, 130, 130, 0.7); /* Lighter thumb on hover */
+}
+
+/* For Firefox (less customization options) */
+.custom-dark-scrollbar {
+  scrollbar-width: thin; /* "auto" or "none" */
+  scrollbar-color: rgba(100, 100, 100, 0.6) rgba(40, 40, 40, 0.5); /* thumb-color track-color */
+}
+/* Optional: Adjust for responsiveness if needed */
+@media (max-width: 768px) {
+  .leaflet-control-layers {
+    top: 5px !important; /* Slightly higher on smaller screens */
+  }
+}
+
+/* Ensure other map controls don't overlap if they are also at the top */
+.leaflet-top.leaflet-left {
+  top: 70px !important; /* Adjust this if your EditControl overlaps */
+}
+
+/* Force select and option text to be white */
+select, select option {
+  color: #fff !important;
+  background: #1a202c !important; /* matches bg-gray-900 */
+}
